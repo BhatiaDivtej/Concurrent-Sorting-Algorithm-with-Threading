@@ -1,6 +1,4 @@
-# Assignment 6: Concurrent Sorting
-
-This is the starter code for [Assignment 6](https://course.ccs.neu.edu/cs3650sp23/a06.html).
+Concurrent Sorting
 
 The [Makefile](Makefile) contains the following targets:
 
